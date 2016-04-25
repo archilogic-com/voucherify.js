@@ -1,4 +1,4 @@
-window.Voucherify = (function (window, document, $) {
+module.exports = (function (window, document, $) {
   "use strict";
 
   var OPTIONS = {
